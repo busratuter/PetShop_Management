@@ -1,0 +1,16 @@
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\bin\Debug\VeterinerOtomasyon.exe.config
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\bin\Debug\VeterinerOtomasyon.exe
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\bin\Debug\VeterinerOtomasyon.pdb
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.Login.resources
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.Properties.Resources.resources
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.exe
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.pdb
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.Employees.resources
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.Homes.resources
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.deneme.resources
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.Products.resources
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.Customers.resources
+C:\Users\busra\source\repos\VeterinerOtomasyon\VeterinerOtomasyon\obj\Debug\VeterinerOtomasyon.Billings.resources
